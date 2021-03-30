@@ -1,3 +1,4 @@
+id,type,name,category,sponsored,availability,rent,price,modified,created,address,latitude,longitude,size,full_name,keywords,reduced
 100268,PROPERTY,8 Poplar Way,SC,false,Under Offer,45000,,2020-02-21T15:38:02,-0001-11-30T00:00:00,"Poplar Way, Solihull | B91 3BX",52.4143874,-1.7776726,,8 Poplar Way,"poplar way, solihull | b91 3bx,8 poplar way,"
 101160,PROPERTY,"Strada, The ICC",HS,false,To Let,138500,,2019-04-17T14:07:22,-0001-11-30T00:00:00,"Broad Street, Birmingham | B1 2EA",52.478628,-1.9109397,8463,"Strada, The ICC","broad street, birmingham | b1 2ea,strada, the icc,"
 101166,PROPERTY,E3,RW,false,Under Offer,,,2020-01-15T09:18:29,2018-04-26T16:30:50,"Kingsbury Road (A34), Erdington, Erdington | B24 9QB",52.5178299,-1.8024461,5754,"E3, Ravenside Retail Park","kingsbury road (a34), erdington, erdington | b24 9qb,e3, ravenside retail park,"

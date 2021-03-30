@@ -1,3 +1,4 @@
+id,type,name,category,sponsored,availability,rent,price,modified,created,address,latitude,longitude,size,full_name,keywords,reduced
 100618,PROPERTY,8,RW,false,To Let,,,2018-03-21T11:24:01,2018-03-21T11:13:05,Redditch | B98 7AH,52.3043747,-1.9343179,6036,"8, Trafford Retail Park","redditch | b98 7ah,8, trafford retail park,",true
 101628,PROPERTY,"Wolverhampton, 15 Dudley Street",HS,false,To Let,85000,,2019-04-17T14:07:26,-0001-11-30T00:00:00,"Dudley Street, Wolverhampton | WV1 3EY",52.5850077,-2.1278708,3391,"Wolverhampton, 15 Dudley Street","dudley street, wolverhampton | wv1 3ey,wolverhampton, 15 dudley street,",true
 102163,PROPERTY,76 High Street,HS,false,To Let,50000,,2020-06-19T14:18:11,-0001-11-30T00:00:00,"High Street, Bromsgrove | B61 8EX",52.3348111,-2.0603465,5598,76 High Street,"high street, bromsgrove | b61 8ex,76 high street,",true

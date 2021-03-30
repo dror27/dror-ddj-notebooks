@@ -1,3 +1,4 @@
+id,type,name,category,sponsored,availability,rent,price,modified,created,address,latitude,longitude,size,full_name,keywords,reduced
 102159,PROPERTY,Unit B,RW,false,To Let,182500,,2021-03-26T17:31:32,-0001-11-30T00:00:00,"Kingsbury Road (A34), Erdington, Birmingham | B24 9QB",52.5178299,-1.8024461,10000,"Unit B, Ravenside Retail Park","kingsbury road (a34), erdington, birmingham | b24 9qb,unit b, ravenside retail park,"
 104269,PROPERTY,Birmingham - S17 Martineau Place,SC,false,To Let,,,2019-04-10T11:14:51,-0001-11-30T00:00:00,"S17 Martineau Place, Birmingham | B2 4UU",52.480371,-1.895556,4398,Birmingham - S17 Martineau Place,"s17 martineau place, birmingham | b2 4uu,birmingham - s17 martineau place,"
 104627,PROPERTY,140 New Street,HS,false,Under Offer,320000,,2019-10-07T16:16:53,-0001-11-30T00:00:00,"140 New Street, Birmingham | B2 4NS",52.478709,-1.896812,,140 New Street,"140 new street, birmingham | b2 4ns,140 new street,"
